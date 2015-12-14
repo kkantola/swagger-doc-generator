@@ -12,5 +12,5 @@ public @interface SwaggerFieldAnnotation {
 	/**
 	 * Description of the field to be annotated
 	 */
-    String fieldDescription();
+	String fieldDescription();
 }
